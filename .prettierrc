@@ -1,0 +1,7 @@
+{
+  "semi": false, // セミコロンの使用を無効にする
+  "singleQuote": true, // シングルクォートを使用する
+  "trailingComma": "all", // 末尾のカンマを常に追加する
+  "tabWidth": 2, // インデントの幅を2に設定する
+  "printWidth": 80 // 1行の文字数の最大値を80に設定する
+}
